@@ -1,8 +1,5 @@
 ---
 
-
-
-
 # Full name (for SEO)
 first_name: Mounir
 last_name: Rezig
