@@ -33,7 +33,7 @@ education:
   - area: PhD Quantum information
     institution: LIP6, Sorbonne Université
     date_start: 2023-09-01
-    date_end: ?
+    date_end: 2026-09-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
