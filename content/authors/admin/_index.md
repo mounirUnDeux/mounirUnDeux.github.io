@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
+  - BJJ
   - Computational Linguistics
   - Information Retrieval
 
